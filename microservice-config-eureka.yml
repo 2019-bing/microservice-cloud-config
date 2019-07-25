@@ -14,7 +14,7 @@ eureka:
     hostname: eureka6001.com
   client:
     registerWithEureka: false
-   fetchRegistry: false
+    fetchRegistry: false
   serviceUrl:
     defaultZone: http://eureka6001.com:6001/eureka/
   server:
